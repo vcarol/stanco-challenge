@@ -18,4 +18,4 @@ images → Poster Art → url
 
 ##### Captura
 
-[](/public/capture.png)
+[preview](/public/capture.png)
